@@ -4,10 +4,9 @@ Un blog increíble para el curso de Git y Github de Platzi
 
 <P>
 	<ul>
-	<li>
-		1. DESDCARGAR
-		2. INSTALAR
-		3. EJECUTAR
-	</li>
+
+		<li>1. DESDCARGAR </li>
+		<li>2. INSTALAR</li>
+		<li>3. EJECUTAR</li>
 	</ul>
 </P>
